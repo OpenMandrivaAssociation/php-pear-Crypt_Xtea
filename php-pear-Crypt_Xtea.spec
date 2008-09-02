@@ -7,8 +7,8 @@
 
 Summary:	%{_pearname} - the Tiny Encryption Algorithm (TEA) (New Variant)
 Name:		php-pear-%{_pearname}
-Version:	1.0
-Release:	%mkrel 8
+Version:	1.1.0
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
