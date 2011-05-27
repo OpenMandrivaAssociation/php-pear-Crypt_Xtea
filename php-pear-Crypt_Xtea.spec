@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.0
-Release:	%mkrel 5
+Release:	%mkrel 6
 Summary:	The Tiny Encryption Algorithm (TEA) (New Variant)
 License:	PHP License
 Group:		Development/PHP
